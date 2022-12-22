@@ -1,4 +1,4 @@
-const TodoTask = require('../models/todotask')
+const TodoTask = require('../models/ticketList')
 
 module.exports = {
     getEdit: (req, res) => {
